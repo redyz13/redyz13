@@ -41,8 +41,6 @@ ___
   <img alt = "Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white&style=flat-square" />
 </div>
 
-</br>
-
 ___
 
 <pre>
