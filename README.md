@@ -12,13 +12,13 @@ ___
 **Links**
 
 <a href="https://discordapp.com/users/202172195156393985">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="padding-right: 10px;" />
+  <img align="left" width="30px" src="https://img.icons8.com/bubbles/344/discord-logo.png" style="padding-right: 10px;" />
 </a>
 
 
 
 <a href="https://steamcommunity.com/id/redyz13/">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/steam.svg"/>
+  <img align="left" width="30px" src="https://img.icons8.com/bubbles/344/steam.png"/>
 </a>
 
 <br>
