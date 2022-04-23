@@ -12,7 +12,7 @@ ___
 **Links**
 
 <a href="https://discordapp.com/users/202172195156393985">
-  <img align="left" width="50px" src="https://i.imgur.com/ANrBXqL.png" style="padding-right: 3px;" />
+  <img align="left" width="50px" src="https://i.imgur.com/ANrBXqL.png" style="padding-right: 10px;" />
 </a>
 
 
