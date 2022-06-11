@@ -1,5 +1,5 @@
 ## redyz13
-<img align="left" src="https://s9.gifyu.com/images/peach-cat.gif" width="90" height="90" style="margin-right: 10px;">
+<img align="left" src="https://s9.gifyu.com/images/peach-cat.gif" width="90" height="90" style="padding-right: 10px;">
 
 ### “A ѕcαттєяєɗ ɗяєαм тнαт'ѕ Ɩιкє α fαя-σff мємσяу... α fαя-σff мємσяу тнαт'ѕ Ɩιкє α ѕcαттєяєɗ ɗяєαм...” 
 
@@ -7,12 +7,12 @@
 
 ___
 
-<img align="left" src="https://s9.gifyu.com/images/Killua66.gif" style="margin-right: 10px;" />
+<img align="left" src="https://s9.gifyu.com/images/Killua66.gif" style="padding-right: 10px;" />
 
 **Links**
 
 <a href="https://discordapp.com/users/202172195156393985">
-  <img align="left" width="50px" src="https://i.imgur.com/ANrBXqL.png" style="margin-right: 10px;" />
+  <img align="left" width="50px" src="https://i.imgur.com/ANrBXqL.png" style="padding-right: 10px;" />
 </a>
 
 
