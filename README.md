@@ -7,7 +7,7 @@
 
 ___
 
-<img align="left" src="https://s9.gifyu.com/images/Killua66.gif" style="padding-right: 20px;" />
+<img align="left" src="https://s9.gifyu.com/images/Killua66.gif" style="padding-right: 10px;" />
 
 **Links**
 
