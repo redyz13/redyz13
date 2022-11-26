@@ -9,7 +9,7 @@ ___
 
 <img align="left" src="https://s4.gifyu.com/images/Killua6.gif" style="padding-right: 10px;" />
 
-**Links**
+### **Links**
 
 <a href="https://discordapp.com/users/202172195156393985">
   <img align="left" width="50px" src="https://i.imgur.com/ANrBXqL.png" style="padding-right: 10px;" />
@@ -26,7 +26,7 @@ ___
 
 ___
 
-**Languages and other Tools**  
+### **Languages and other Tools**
 <div>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=flat-square" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&style=flat-square" />
