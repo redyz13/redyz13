@@ -26,7 +26,7 @@ ___
 
 ___
 
-**Languages and other Tools**
+**Languages/Tools**
 <div>
   <img alt="C" src="https://i.imgur.com/dM6PB86.png" width=35px height=35px/>
   <img alt="CPP" src="https://i.imgur.com/Na8xyXY.png" width=35px height=35px/>
