@@ -1,5 +1,6 @@
 ## redyz13
 <img align="left" src="https://s4.gifyu.com/images/Cat-Heart.gif" width="90" style="padding-right: 10px;">
+<img align="left" src="https://i.imgur.com/qzLgo1t.png" height="90" style="padding-right: 10px;">
 
 ### ㅤㅤ­­­“A ѕcαттєяєɗ ɗяєαм тнαт'ѕ Ɩιкє α fαя-σff мємσяу... α fαя-σff мємσяу тнαт'ѕ Ɩιкє α ѕcαттєяєɗ ɗяєαм...” 
 
