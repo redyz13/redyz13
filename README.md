@@ -1,7 +1,7 @@
 ## redyz13
-<img align="left" src="https://s4.gifyu.com/images/Cat-Heart.gif" width="90" height="90" style="padding-right: 10px;">
+<img align="left" src="https://s4.gifyu.com/images/Cat-Heart.gif" width="90" style="padding-right: 10px;">
 
-### “A ѕcαттєяєɗ ɗяєαм тнαт'ѕ Ɩιкє α fαя-σff мємσяу... α fαя-σff мємσяу тнαт'ѕ Ɩιкє α ѕcαттєяєɗ ɗяєαм...” 
+### ㅤㅤ­­­“A ѕcαттєяєɗ ɗяєαм тнαт'ѕ Ɩιкє α fαя-σff мємσяу... α fαя-σff мємσяу тнαт'ѕ Ɩιкє α ѕcαттєяєɗ ɗяєαм...” 
 
 <br>
 
@@ -12,13 +12,11 @@ ___
 **Links**
 
 <a href="https://discordapp.com/users/202172195156393985">
-  <img align="left" width="50px" src="https://i.imgur.com/ANrBXqL.png" style="padding-right: 10px;" />
+  <img align="left" width="50px" src="https://i.imgur.com/HekNSwo.png" style="padding-right: 10px;" />
 </a>
 
-
-
 <a href="https://steamcommunity.com/id/redyz13/">
-  <img align="left" width="50px" src="https://i.imgur.com/OYV8IpL.png"/>
+  <img align="left" width="50px" src="https://i.imgur.com/XYWJQJz.png"/>
 </a>
 
 <br>
