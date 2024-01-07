@@ -8,7 +8,7 @@
 
 ___
 
-<img align="right" src="https://s4.gifyu.com/images/Killua6.gif" style="padding-right: 10px;" />
+<img align="right" src="https://i.imgur.com/zVg8SfX.gif" style="padding-right: 10px;" />
 
 **Links**
 
