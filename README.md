@@ -30,6 +30,8 @@ ___
   <img alt="C" src="https://i.imgur.com/dM6PB86.png" width=35px height=35px/>
   <img alt="CPP" src="https://i.imgur.com/Na8xyXY.png" width=35px height=35px/>
   <img alt="Java" src="https://i.imgur.com/7VUEpIm.png" width=35px height=35px/>
+  <img alt="Python" src="https://i.imgur.com/A19kygF.png" width=35px height=35px/>
+  <img alt="PyTorch" src="https://i.imgur.com/TYnHbMC.png" width=35px height=35px/>
   <img alt=JavaScript src="https://i.imgur.com/7BpBnMH.png" width=35px height=35px/>
   <img alt=TypeScript src="https://i.imgur.com/aFRGBjJ.png" width=35px height=35px/>
   <img alt=React src="https://i.imgur.com/SZwtFkB.png" width=35px height=35px/>
