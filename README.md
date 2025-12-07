@@ -7,7 +7,7 @@ Hi, I'm redyz13
 
 <p>
 <em>
-Software Engineering master's student & AI enthusiast</em>
+Software Engineering Master's Student & AI Enthusiast</em>
 <img src="https://media.tenor.com/uJYdBEAP_igAAAAi/legendofzelda-navi.gif" width="25" height="25" valign="middle"> 
 
 
