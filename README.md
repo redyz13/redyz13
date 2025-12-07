@@ -1,54 +1,45 @@
-## redyz13
-<img align="left" src="https://i.imgur.com/X03ecAq.gif" width="90" style="padding-right: 10px;">
-<a href="#"><img align="left" src="https://i.imgur.com/qzLgo1t.png" height="90" style="padding-right: 10px;"></a>
+<h2>
+Hi, I'm redyz13 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
+</h2>
 
-### ㅤㅤ­­­“A ѕcαттєяєɗ ɗяєαм тнαт'ѕ Ɩιкє α fαя-σff мємσяу... α fαя-σff мємσяу тнαт'ѕ Ɩιкє α ѕcαттєяєɗ ɗяєαм...” 
+<img align="right" src="https://i.imgur.com/GUo0geS.gif" width="200">
 
-<br>
+<p>
+<em>
+Software Engineering master's student & AI enthusiast</em>
+<img src="https://i.imgur.com/PaVhFSm.gif" width="30" height="30" valign="middle"> 
 
-___
 
-<img align="right" src="https://i.imgur.com/zVg8SfX.gif" style="padding-right: 10px;" />
+[![Discord](https://img.shields.io/badge/discord-%23E1D7FF.svg?style=for-the-badge&logo=discord&logoColor=6A5ACD)](https://discordapp.com/users/202172195156393985)
+[![Steam](https://img.shields.io/badge/steam-%23D7E8FF.svg?style=for-the-badge&logo=steam&logoColor=0A1A2F)](https://steamcommunity.com/id/redyz13/)
 
-**Links**
+<p align="center">⋆｡°✩°｡⋆</p>
 
-<a href="https://discordapp.com/users/202172195156393985">
-  <img align="left" width="50px" src="https://i.imgur.com/HekNSwo.png" style="padding-right: 10px;" />
-</a>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...
 
-<a href="https://steamcommunity.com/id/redyz13/">
-  <img align="left" width="50px" src="https://i.imgur.com/XYWJQJz.png"/>
-</a>
+```python
+redyz13 = {
+    "languages": ["C", "C++", "Java", "Python", "JavaScript", "TypeScript"],
+    "ai": ["NumPy", "Pandas", "PyTorch", "HuggingFace", "Jupyter"],
+    "web": ["React", "HTML", "CSS"],
+    "databases": ["PostgreSQL", "MySQL"],
+    "tools": ["Git", "Bash", "LaTeX", "Vim", "Neovim", "VS Code", "IntelliJ"],
+    "interests": {
+        "cs": "curious mind since childhood; I love exploring systems, algorithms and how things truly work",
+        "literature": "ideas are bulletproof; words shape how we understand the world",
+        "music": "a constant companion — a way to feel, reflect and connect with people",
+        "videogames": "interactive art, storytelling and shared experiences that stay with you",
+        "movies": "cinema that hits like a shockwave — uncomfortable, honest, unforgettable",
+        "animation": "from experimental to classic — visual storytelling that goes beyond reality"
+    },
+}
+```
+<p align="center">
+  🐧 Linux enjoyer ✧ ⌨️ Vim/Neovim lover ✧ 💫 Terminal aesthetic ✧ 📚 LaTeX enjoyer
+</p>
 
-<br>
-<br>
-
-___
-
-**Languages/Tools**
-<div>
-  <img alt="C" src="https://i.imgur.com/dM6PB86.png" width=35px height=35px/>
-  <img alt="CPP" src="https://i.imgur.com/Na8xyXY.png" width=35px height=35px/>
-  <img alt="Java" src="https://i.imgur.com/7VUEpIm.png" width=35px height=35px/>
-  <img alt="Python" src="https://i.imgur.com/A19kygF.png" width=35px height=35px/>
-  <img alt="PyTorch" src="https://i.imgur.com/TYnHbMC.png" width=35px height=35px/>
-  <img alt=JavaScript src="https://i.imgur.com/7BpBnMH.png" width=35px height=35px/>
-  <img alt=TypeScript src="https://i.imgur.com/aFRGBjJ.png" width=35px height=35px/>
-  <img alt=React src="https://i.imgur.com/SZwtFkB.png" width=35px height=35px/>
-  <img alt="HTML" src="https://i.imgur.com/TqsiUS5.png" width=35px height=35px/>
-  <img alt="CSS" src="https://i.imgur.com/SnmwuXF.png" width=35px height=35px/>
-  <img alt="MySQL" src="https://i.imgur.com/hgvD5JI.png" width=35px height=35px/>
-  <img alt="PostgreSQL" src="https://i.imgur.com/CIuPfXv.png" width=35px height=35px/>
-  <img alt="Bash" src="https://i.imgur.com/GWqtp8s.png" width=35px height=35px/>
-  <img alt="Git" src="https://i.imgur.com/7erxHLN.png" width=35px height=35px/>
-  <img alt="LaTex" src="https://i.imgur.com/OkkhJ1Y.png" width=35px height=35px/>
-  <img alt="Vim" src="https://i.imgur.com/w7fQ7AK.png" width=35px height=35px/>
-  <img alt="Neovim" src="https://i.imgur.com/i8dA8nj.png" width=35px height=35px/>
-  <img alt="VSCode" src="https://i.imgur.com/zIGG9WD.png" width=35px height=35px/>
-  <img alt="Idea" src="https://i.imgur.com/tSmE2OC.png" width=35px height=35px/>
-</div>
-
-___
+<p align="center">⋆｡°✩°｡⋆</p>
 
 <pre>
                 /\_/\                   <3
@@ -57,7 +48,9 @@ ___
                (__ __)//                <3
 </pre>
 
-___
+<p align="center">⋆｡°✩°｡⋆</p>
 
-### "ι ωαηт тσ Ɩιηє тнє ριєcєѕ υρ... уσυяѕ αηɗ мιηє"
-
+<p align="center">
+  <img src="https://media.tenor.com/uJYdBEAP_igAAAAi/legendofzelda-navi.gif" width="32"><br>
+  <sub><em> <a href="https://fauux.neocities.org/">[  the wired awaits  ]</a></em></sub>
+</p>
