@@ -36,7 +36,7 @@ redyz13 = {
 }
 ```
 <p align="center">
-  🐧 Linux enjoyer ✧ ⌨️ Vim/Neovim lover ✧ 💫 Terminal aesthetic ✧ 📚 LaTeX enjoyer
+  🐧 Linux enjoyer ✧ 🎹 Vim/Neovim lover ✧ 💫 Terminal aesthetic ✧ 📚 LaTeX enjoyer
 </p>
 
 <p align="center">⋆｡°✩°｡⋆</p>
