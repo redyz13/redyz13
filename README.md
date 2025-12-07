@@ -43,10 +43,10 @@ redyz13 = {
 
 <img align="right" src="https://media.tenor.com/4v7t6GIWGtAAAAAi/the-binding-of-isaac.gif" width="110">
 <pre>
-                               /\_/\                   <3
-                             =( °w° )=                 <3
-                               )   (  //               <3
-                              (__ __)//                <3
+                                                   /\_/\                   <3
+                                                 =( °w° )=                 <3
+                                                   )   (  //               <3
+                                                  (__ __)//                <3
 </pre>
 
 <p align="center">⋆｡°✩°｡⋆</p>
