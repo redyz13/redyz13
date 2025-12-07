@@ -8,7 +8,7 @@ Hi, I'm redyz13
 <p>
 <em>
 Software Engineering master's student & AI enthusiast</em>
-<img src="https://i.imgur.com/PaVhFSm.gif" width="30" height="30" valign="middle"> 
+<img src="https://media.tenor.com/uJYdBEAP_igAAAAi/legendofzelda-navi.gif" width="25" height="25" valign="middle"> 
 
 
 [![Discord](https://img.shields.io/badge/discord-%23E1D7FF.svg?style=for-the-badge&logo=discord&logoColor=6A5ACD)](https://discordapp.com/users/202172195156393985)
@@ -41,6 +41,8 @@ redyz13 = {
 
 <p align="center">⋆｡°✩°｡⋆</p>
 
+<img align="left" src="https://media.tenor.com/4v7t6GIWGtAAAAAi/the-binding-of-isaac.gif" width="110">
+<img align="right" src="https://media.tenor.com/4v7t6GIWGtAAAAAi/the-binding-of-isaac.gif" width="110">
 <pre>
                 /\_/\                   <3
               =( °w° )=                 <3
@@ -51,6 +53,6 @@ redyz13 = {
 <p align="center">⋆｡°✩°｡⋆</p>
 
 <p align="center">
-  <img src="https://media.tenor.com/uJYdBEAP_igAAAAi/legendofzelda-navi.gif" width="32"><br>
+  <img src="https://media.tenor.com/EBUb-0dE4yEAAAAi/lain-wired.gif" width="32"><br>
   <sub><em> <a href="https://fauux.neocities.org/">[  the wired awaits  ]</a></em></sub>
 </p>
