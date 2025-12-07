@@ -42,11 +42,12 @@ redyz13 = {
 <p align="center">⋆｡°✩°｡⋆</p>
 
 <img align="right" src="https://media.tenor.com/4v7t6GIWGtAAAAAi/the-binding-of-isaac.gif" width="110">
+
 <pre>
-                                                 /\_/\                   <3
-                                               =( °w° )=                 <3
-                                                 )   (  //               <3
-                                                (__ __)//                <3
+                /\_/\                   <3
+              =( °w° )=                 <3
+                )   (  //               <3
+               (__ __)//                <3
 </pre>
 
 <p align="center">⋆｡°✩°｡⋆</p>
@@ -55,3 +56,4 @@ redyz13 = {
   <img src="https://media.tenor.com/EBUb-0dE4yEAAAAi/lain-wired.gif" width="32"><br>
   <sub><em> <a href="https://fauux.neocities.org/">[  the wired awaits  ]</a></em></sub>
 </p>
+
