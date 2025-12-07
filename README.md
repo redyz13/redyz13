@@ -3,7 +3,7 @@ Hi, I'm redyz13
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
 </h2>
 
-<img align="right" src="https://i.imgur.com/GUo0geS.gif" width="200">
+<img align="right" src="https://i.imgur.com/GUo0geS.gif" width="210">
 
 <p>
 <em>
