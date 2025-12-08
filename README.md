@@ -41,7 +41,7 @@ redyz13 = {
 
 <p align="center">⋆｡°✩°｡⋆</p>
 
-<img align="right" src="https://media.tenor.com/4v7t6GIWGtAAAAAi/the-binding-of-isaac.gif" width="110">
+<img align="right" src="https://i.imgur.com/LxUdCe3.gif" width="100">
 
 <pre>
                 /\_/\                   <3
